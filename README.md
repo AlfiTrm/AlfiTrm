@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css&theme=dark" alt="Frontend"/>
@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlfiTrm&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
@@ -62,7 +62,7 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Graph</h2>
+<h2 align="center">Contribution Graph</h2>
 
 <div align="center">
   <picture>
