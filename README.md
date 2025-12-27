@@ -50,14 +50,22 @@
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlfiTrm&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfiTrm&layout=compact&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AlfiTrm&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&icon_color=6366f1&cache_seconds=86400" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlfiTrm&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&icon_color=6366f1&cache_seconds=86400" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfiTrm&layout=compact&hide_border=true&theme=github_dark&langs_count=6&cache_seconds=86400" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfiTrm&layout=compact&hide_border=true&theme=github_dark&langs_count=6&cache_seconds=86400" alt="Top Languages"/>
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlfiTrm&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=AlfiTrm&hide_border=true&theme=github-dark-blue&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak"/>
+  </a>
 </div>
 
 ---
